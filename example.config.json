@@ -1,0 +1,12 @@
+{
+  "twitter_api": {
+    "consumer_key": "some consumer key",
+    "consumer_secret": "some consumer secrete",
+    "access_token": "some access token",
+    "access_token_secret": "some access token secrete",
+  },
+  "dataset_path": "data/russian_twits_id.csv",
+  "generated_dataset_path": "path to save cleared dataset",
+  "rows_to_read": 100000,
+  "clearing_batch_step": 100,
+}
