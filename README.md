@@ -1,1 +1,1 @@
-# Tweet dataset adaptor
+# Tweet dataset adapter
